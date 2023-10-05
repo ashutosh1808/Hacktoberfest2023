@@ -1,5 +1,5 @@
 '''
-wapp to print the table of a no
+wapp to print the table of a number
 '''
 
 num=float(input("enter a number: "))
